@@ -1,0 +1,15 @@
+{
+  "name": "simple_node_text_to_speech_cli",
+  "version": "1.0.0",
+  "description": "Simple text to speech using say and prompt",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "prompt": "^1.0.0",
+    "say": "^0.11.0"
+  }
+}
